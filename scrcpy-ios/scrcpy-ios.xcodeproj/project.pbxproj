@@ -727,7 +727,7 @@
 					"$(SRCROOT)/../external/adb-mobile/output",
 					"$(SRCROOT)/../output/iphone",
 				);
-				MARKETING_VERSION = 2.3;
+				MARKETING_VERSION = 2.3.1;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-ladb",
@@ -822,7 +822,7 @@
 					"$(SRCROOT)/../external/adb-mobile/output",
 					"$(SRCROOT)/../output/iphone",
 				);
-				MARKETING_VERSION = 2.3;
+				MARKETING_VERSION = 2.3.1;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-ladb",
